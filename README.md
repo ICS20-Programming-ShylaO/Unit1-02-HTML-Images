@@ -1,1 +1,1 @@
-# Unit1-02-HTML-Images
+[![GitHub's Super Linter](https://ICS20-Programming-ShylaO/Unit1-02-HTML-Images/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-ShylaO/Unit1-02-HTML-Images/actions)
